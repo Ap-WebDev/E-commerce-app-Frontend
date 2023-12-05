@@ -1,4 +1,4 @@
-The Name of the E Commerce Web App is Coral and it available on coral-shop.netlify.app
+The Name of the E Commerce Web App is Coral and it available on corol-shop.netlify.app
 
 This app is Build using Vite React
 
